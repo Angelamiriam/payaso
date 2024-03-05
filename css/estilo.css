@@ -1,0 +1,104 @@
+#principaltodo
+{
+    width: 800px;
+    height: 2000px;
+    background-color: yellow;
+    margin: 20px;
+}
+#cara{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(235, 189, 129);
+    border-radius: 250px;
+    display:inline-block;
+    position: relative;  
+    left: 150px;
+    top: 150px;
+}
+#ojoiz{
+    width: 100px;
+    height: 150px;
+    background-color: white;
+    border-radius: 100px;
+    display:inline-block;
+    position: relative;  
+    left: 100px;
+    top: 100px;
+}
+#ojoder{
+    width: 100px;
+    height: 150px;
+    background-color: white;
+    border-radius: 80px;
+    display:inline-block;
+    position: relative;  
+    left: 200px;
+    top: 100px;
+}
+#nariz{
+    width: 140px;
+    height: 130px;
+    background-color: red;
+    border-radius: 100px;
+    display:inline-block;
+    position: relative;  
+    right: 30px;
+    top: 200px;
+}
+#barbilla{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(187, 79, 79);
+    display: inline-block;
+    position: relative;
+    border-radius: 100px;
+    left: 100px;
+    top: 200px;
+}
+#boca{
+    width: 130px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    display: inline-flex;
+    left: 50px;
+    border-radius: 100px;
+    position: relative;
+    left: 85px;
+    top: 30px;
+}
+#pupilaiz{
+    width: 40px;
+    height: 60px;
+    background-color: black;
+    border-radius: 100px;
+    position: relative;
+    left: 30px;
+    top: 65px;
+}
+#pupilader{
+    width: 40px;
+    height: 60px;
+    background-color: black;
+    border-radius: 100px;
+    position: relative;
+    left: 30px;
+    top: 65px;
+}
+#sombabajo{
+    width: 500px;
+    height: 50px;
+    background-color: violet;
+    display: flex;
+    position: relative;
+    left: 150px;
+    top: -300px;
+}
+#sombarriba{
+    width: 310px;
+    height: 200px;
+    background-color: violet;
+    display: flex;
+    position: relative;
+    left: 240px;
+    top: -520px;
+}
